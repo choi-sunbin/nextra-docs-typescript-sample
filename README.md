@@ -29,4 +29,6 @@ pnpm dev
 # or
 bun dev
 
-![image](https://github.com/user-attachments/assets/2fa837a5-c618-4028-a903-ac3a48649a63)
+```
+
+![Example Image](public/mainPage.png)
